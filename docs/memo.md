@@ -1,1 +1,3 @@
 - [すばらしきポケモンエコシステム⚡️ - Qiita](https://qiita.com/seya/items/47dc0ebae55674d8902f "すばらしきポケモンエコシステム⚡️ - Qiita")
+- [seabornによる統計データ可視化（ポケモン種族値を例に）(1) - 午睡二時四十分](http://mizti.hatenablog.com/entry/2017/11/18/seaborn1 "seabornによる統計データ可視化（ポケモン種族値を例に）(1) - 午睡二時四十分")
+- [seabornによる統計データ可視化（ポケモン種族値を例に）(2) - 午睡二時四十分](http://mizti.hatenablog.com/entry/seaborn2 "seabornによる統計データ可視化（ポケモン種族値を例に）(2) - 午睡二時四十分")

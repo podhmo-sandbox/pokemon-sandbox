@@ -5,3 +5,9 @@
 ```console
 $ make jnames
 ```
+
+### 種族値を取りｄしてみる
+
+```console
+$ make scores
+```
